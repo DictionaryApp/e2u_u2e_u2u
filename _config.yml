@@ -26,7 +26,7 @@ app:
 # Marketing
 #
 marketing_header: Search English Urdu Words # Optional
-marketing_desc: English to Urdu: "Find meanings of English words in Urdu". Urdu to English: "App allows you to find meanings of Urdu words in English". Roman Dictionary: "Search word meaning in native English like (Kasy ho, Pyar, Hum, tum, boht. etc)". Urdu to Urdu Offline Dictionary: "Lughat is added contains 200,000 words with detail meanings and information". Translator App: "you can translate whole paragraph to any language that you want using this Translate app". English Urdu Dictionary: "English Online Dictionary is added, with huge online Database" # Optional
+marketing_desc: English to Urdu- "Find meanings of English words in Urdu". Urdu to English- "App allows you to find meanings of Urdu words in English". Roman Dictionary- "Search word meaning in native English like (Kasy ho, Pyar, Hum, tum, boht. etc)". Urdu to Urdu Offline Dictionary- "Lughat is added contains 200,000 words with detail meanings and information". Translator App- "you can translate whole paragraph to any language that you want using this Translate app". English Urdu Dictionary- "English Online Dictionary is added, with huge online Database" # Optional
 
 #
 # Social Links
